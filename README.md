@@ -2,7 +2,7 @@
 
 The repository contains Machine Learning projects developed by me in Python using Jupyter notebook, for learning and reference purposes. All these projects were developed based on the template I created for Machine Learning projects. The details of the projects are given below.
 <br><br>
-### **MLP1-Classification-RandomForest-DiabetesDetection**   
+## **MLP1-Classification-RandomForest-DiabetesDetection**   
 `Name of the notebook:` MLPy-DemoProj-1.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate   
 `Data source(s):` [Kaggle](https://www.kaggle.com/)   
@@ -35,7 +35,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Random Forest (RF)
 <br><br>
-### **MLP2-Classification-LogisticRegression-PlantIdentification**
+## **MLP2-Classification-LogisticRegression-PlantIdentification**
 `Name of the notebook:` MLPy-DemoProj-2.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Multivariate   
 `Data source(s):` [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)   
@@ -69,7 +69,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Logistic Regression (LR)
 <br><br>
-### **MLP3-Classification-RandomForest-MushroomIdentification**
+## **MLP3-Classification-RandomForest-MushroomIdentification**
 `Name of the notebook:` MLPy-DemoProj-3.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate - Imbalanced   
 `Data source(s):` UCI Machine Learning Repository - Mushroom dataset   
@@ -101,7 +101,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Randon Forest (RF)
 <br><br>
-### **MLP4-Classification-GaussianNB-BlightTicketCompliance**   
+## **MLP4-Classification-GaussianNB-BlightTicketCompliance**   
 `Name of the notebook:` MLPy-DemoProj-4.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Probability   
 `Data source(s):` [City of Detroit Open Data Portal-Blight Violations](https://data.detroitmi.gov/datasets/blight-violations) and [Coursera](https://www.coursera.org/)   
@@ -130,7 +130,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Gaussian Naive Bayes (NB)
 <br><br>
-### **MLP5-Regression-OrdinaryLeastSquares-HousePricePrediction**   
+## **MLP5-Regression-OrdinaryLeastSquares-HousePricePrediction**   
 `Name of the notebook:` MLPy-DemoProj-5.ipynb   
 `Type of the problem:` Supervised Learning - Regression   
 `Data source(s):` [Kaggle](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)   
@@ -161,7 +161,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Ordinary Least Squares (OLS)
 <br><br>
-### **MLP6-Classification-ExtremeBoosting-CCCustomerChurn**   
+## **MLP6-Classification-ExtremeBoosting-CCCustomerChurn**   
 `Name of the notebook:` MLPy-DemoProj-6.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate (Imbalanced classification)   
 `Data source(s):` [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers)   
@@ -199,7 +199,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` XGBoost (XGB)
 <br><br>
-### **MLP7-Clustering-KMeans-CustomerSegmentation**
+## **MLP7-Clustering-KMeans-CustomerSegmentation**
 `Name of the notebook:` MLPy-DemoProj-7.ipynb   
 `Type of the problem:` Unsupervised Learning - Clustering   
 `Data source(s):` [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)   
@@ -222,8 +222,8 @@ The repository contains Machine Learning projects developed by me in Python usin
 2) Silhouette score
 3) Davies Bouldin score
 ```
-<br><br>
-### **MLP8-DA-Clustering-RFMAnalysis-CustomerSegmentation**   
+<br>
+## **MLP8-DA-Clustering-RFMAnalysis-CustomerSegmentation**   
 `Name of the notebook:` MLPy-DemoProj-8.ipynb   
 `Type of the problem:`
 1) Data Analysis - Visualization - for understanding the current sales trend and revenue loss
