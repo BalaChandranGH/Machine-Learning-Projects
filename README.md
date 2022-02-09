@@ -34,7 +34,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 3) Classification report (not a metric)
 ```
 `Winning algorithm:` Random Forest (RF)
-
 <br><br>
 ### **MLP2-Classification-LogisticRegression-PlantIdentification**
 `Name of the notebook:` MLPy-DemoProj-2.ipynb   
@@ -69,7 +68,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 3) Classification report (not a metric)
 ```
 `Winning algorithm:` Logistic Regression (LR)
-
 <br><br>
 ### **MLP3-Classification-RandomForest-MushroomIdentification**
 `Name of the notebook:` MLPy-DemoProj-3.ipynb   
@@ -102,7 +100,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 1) Accuracy score
 ```
 `Winning algorithm:` Randon Forest (RF)
-
 <br><br>
 ### **MLP4-Classification-GaussianNB-BlightTicketCompliance**   
 `Name of the notebook:` MLPy-DemoProj-4.ipynb   
@@ -132,7 +129,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 1) Area Under the ROC curve (AUC)
 ```
 `Winning algorithm:` Gaussian Naive Bayes (NB)
-
 <br><br>
 ### **MLP5-Regression-OrdinaryLeastSquares-HousePricePrediction**   
 `Name of the notebook:` MLPy-DemoProj-5.ipynb   
@@ -164,7 +160,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 4) Algorithm run-time
 ```
 `Winning algorithm:` Ordinary Least Squares (OLS)
-
 <br><br>
 ### **MLP6-Classification-ExtremeBoosting-CCCustomerChurn**   
 `Name of the notebook:` MLPy-DemoProj-6.ipynb   
@@ -203,7 +198,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 5) Classification report (not a metric)
 ```
 `Winning algorithm:` XGBoost (XGB)
-
 <br><br>
 ### **MLP7-Clustering-KMeans-CustomerSegmentation**
 `Name of the notebook:` MLPy-DemoProj-7.ipynb   
@@ -228,7 +222,6 @@ The repository contains Machine Learning projects developed by me in Python usin
 2) Silhouette score
 3) Davies Bouldin score
 ```
-
 <br><br>
 ### **MLP8-DA-Clustering-RFMAnalysis-CustomerSegmentation**   
 `Name of the notebook:` MLPy-DemoProj-8.ipynb   
