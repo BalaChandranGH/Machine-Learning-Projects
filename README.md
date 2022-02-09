@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 
 The repository contains Machine Learning projects developed by me in Python using Jupyter notebook, for learning and reference purposes. All these projects were developed based on the template I created for Machine Learning projects. The details of the projects are given below.
-
+<br><br>
 ### **MLP1-Classification-RandomForest-DiabetesDetection**   
 `Name of the notebook:` MLPy-DemoProj-1.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate   
@@ -35,7 +35,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Random Forest (RF)
 
-
+<br><br>
 ### **MLP2-Classification-LogisticRegression-PlantIdentification**
 `Name of the notebook:` MLPy-DemoProj-2.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Multivariate   
@@ -70,7 +70,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Logistic Regression (LR)
 
-
+<br><br>
 ### **MLP3-Classification-RandomForest-MushroomIdentification**
 `Name of the notebook:` MLPy-DemoProj-3.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate - Imbalanced   
@@ -103,7 +103,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Randon Forest (RF)
 
-
+<br><br>
 ### **MLP4-Classification-GaussianNB-BlightTicketCompliance**   
 `Name of the notebook:` MLPy-DemoProj-4.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Probability   
@@ -133,7 +133,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Gaussian Naive Bayes (NB)
 
-
+<br><br>
 ### **MLP5-Regression-OrdinaryLeastSquares-HousePricePrediction**   
 `Name of the notebook:` MLPy-DemoProj-5.ipynb   
 `Type of the problem:` Supervised Learning - Regression   
@@ -165,7 +165,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` Ordinary Least Squares (OLS)
 
-
+<br><br>
 ### **MLP6-Classification-ExtremeBoosting-CCCustomerChurn**   
 `Name of the notebook:` MLPy-DemoProj-6.ipynb   
 `Type of the problem:` Supervised Learning - Classification - Univariate (Imbalanced classification)   
@@ -204,7 +204,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 ```
 `Winning algorithm:` XGBoost (XGB)
 
-
+<br><br>
 ### **MLP7-Clustering-KMeans-CustomerSegmentation**
 `Name of the notebook:` MLPy-DemoProj-7.ipynb   
 `Type of the problem:` Unsupervised Learning - Clustering   
@@ -229,7 +229,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 3) Davies Bouldin score
 ```
 
-
+<br><br>
 ### **MLP8-DA-Clustering-RFMAnalysis-CustomerSegmentation**   
 `Name of the notebook:` MLPy-DemoProj-8.ipynb   
 `Type of the problem:`
