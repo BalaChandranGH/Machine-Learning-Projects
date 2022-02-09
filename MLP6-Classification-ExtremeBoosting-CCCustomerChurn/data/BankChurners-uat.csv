@@ -1,0 +1,14 @@
+CLIENTNUM,Customer_Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Trans_Ct,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio
+768805383,45,M,3,High School,Married,$60K - $80K,Blue,39,5,1,3,12691,777,11914,1.335,1144,42,1.625,0.061
+818770008,49,F,5,Graduate,Single,Less than $40K,Blue,44,6,1,2,8256,864,7392,1.541,1291,33,3.714,0.105
+769911858,40,F,4,High School,Unknown,Less than $40K,Blue,34,3,4,1,3313,2517,796,1.405,1171,20,2.333,0.76
+708508758,62,F,0,Graduate,Married,Less than $40K,Blue,49,2,3,3,1438.3,0,1438.3,1.047,692,16,0.6,0
+708300483,66,F,0,Doctorate,Married,Unknown,Blue,56,5,4,3,7882,605,7277,1.052,704,16,0.143,0.077
+779471883,54,F,1,Graduate,Married,Less than $40K,Blue,40,2,3,1,1438.3,808,630.3,0.997,705,19,0.9,0.562
+712030833,48,M,2,Graduate,Married,$60K - $80K,Silver,35,2,4,4,34516,0,34516,0.763,691,15,0.5,0
+711481533,39,M,1,High School,Divorced,$60K - $80K,Blue,33,5,3,3,5926,1251,4675,0.944,1316,28,1.154,0.211
+710082708,44,M,4,Post-Graduate,Single,$120K +,Blue,32,2,4,2,23957,2102,21855,0.997,1276,26,0.733,0.088
+711013983,55,F,4,Unknown,Married,$40K - $60K,Blue,45,2,4,3,2158,0,2158,0.585,615,12,0.714,0
+755420433,59,F,1,Graduate,Married,Unknown,Blue,52,2,3,3,10133,1417,8716,0.383,1068,20,0.818,0.14
+711887583,47,M,2,Unknown,Married,$80K - $120K,Blue,37,2,3,3,5449,1628,3821,0.696,836,18,0.385,0.299
+714778833,49,F,3,College,Single,Unknown,Blue,43,4,4,0,23032,1960,21072,0.619,1289,22,1,0.085
