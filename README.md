@@ -222,6 +222,7 @@ The repository contains Machine Learning projects developed by me in Python usin
 2) Silhouette score
 3) Davies Bouldin score
 ```
+
 <br>
 ## **MLP8-DA-Clustering-RFMAnalysis-CustomerSegmentation**   
 `Name of the notebook:` MLPy-DemoProj-8.ipynb   
